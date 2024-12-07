@@ -1,4 +1,4 @@
-# PLP-CLASS
+# Lista 3(PLP) - Sahil Dowlani, Yan Pedro
 Repository for L3 PLP
 Alunos: Sahil Dowlani, Yan Pedro
 Instruções:
